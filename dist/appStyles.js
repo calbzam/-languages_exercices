@@ -86,25 +86,25 @@
 /************************************************************************/
 /******/ ({
 
-/***/ "./students.js":
-/*!*********************!*\
-  !*** ./students.js ***!
-  \*********************/
+/***/ "./mystyles.scss":
+/*!***********************!*\
+  !*** ./mystyles.scss ***!
+  \***********************/
 /*! no static exports found */
-/***/ (function(module, exports) {
+/***/ (function(module, exports, __webpack_require__) {
 
-eval("// Let's use some ES6 features\nvar averageScore = \"90\";\nvar messageToDisplay = \"average score \".concat(averageScore);\ndocument.write(messageToDisplay);\n\n//# sourceURL=webpack:///./students.js?");
+eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=webpack:///./mystyles.scss?");
 
 /***/ }),
 
 /***/ 0:
-/*!***************************!*\
-  !*** multi ./students.js ***!
-  \***************************/
+/*!*****************************!*\
+  !*** multi ./mystyles.scss ***!
+  \*****************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("module.exports = __webpack_require__(/*! ./students.js */\"./students.js\");\n\n\n//# sourceURL=webpack:///multi_./students.js?");
+eval("module.exports = __webpack_require__(/*! ./mystyles.scss */\"./mystyles.scss\");\n\n\n//# sourceURL=webpack:///multi_./mystyles.scss?");
 
 /***/ })
 
